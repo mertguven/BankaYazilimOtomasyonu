@@ -1,0 +1,8 @@
+Mon May 20 02:42:40 2019
+19917 Musteri No'lu Hesaba 367 kadar para yuklenmistir.
+Mon May 20 02:42:40 2019
+19917 Musteri No'lu Hesaptan -7 kadar para cekilmistir.
+Mon May 20 02:42:40 2019
+19917 Musteri No'lu Hesaba 69 kadar para yuklenmistir.
+Mon May 20 02:42:40 2019
+19917 No'lu Musteriden 19858 No'lu Musteriye -65 kadar para havala islemi gerceklesmistir.

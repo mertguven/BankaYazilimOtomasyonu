@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558308433 source:c:\users\mert\desktop\proje\bankayazýlýmotomasyonu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
